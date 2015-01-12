@@ -1,0 +1,714 @@
+@font-face {
+    font-family: Museo; src: url(../museosans_300-webfont.ttf) format("truetype");
+}
+@font-face {
+    font-family: MuseoBold; src: url(../museosans_700-webfont.ttf) format("truetype");
+}
+
+body {
+    background-image:url('../images/background.png');
+    background-repeat:no-repeat; 
+    margin:0;
+    padding:0;
+}
+
+p{margin:0;padding:0;}
+
+#shell {
+    width:1024px;
+    height:768px;
+}
+
+#header {
+    background-image:url('../images/headerTile.png');
+    background-repeat:repeat-x; 
+    width:1024px; 
+    height:80px;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:9999;
+}
+
+#header .logo{
+    position:absolute; 
+    top:15px; 
+    left:20px;
+}
+
+#drawer{
+    background-image:url('../images/drawer.png'); 
+    background-repeat:no-repeat; 
+    width:1024px; 
+    height:300px; 
+    position:absolute; 
+    left:0; 
+    top:700px;
+    z-index:9999;
+    overflow-x:auto;
+}
+
+#drawerWrapper{
+    width:3000px;
+    height:300px;
+    float:left;
+}
+
+#micSlider{
+    background-image:url('../images/micSlider.png'); 
+    background-repeat:no-repeat; 
+    width:204px; 
+    height:128px;
+    position:absolute; 
+    top:320px; 
+    left:-145px;
+    z-index:99997;
+    -webkit-user-select: none;
+}
+	
+.micOff{
+    width:33px; 
+    height:58px; 
+    display:block; 
+    position:relative; 
+    left:150px; 
+    top:33px;
+    z-index:99999;
+}
+
+#micBack{
+    position:relative;
+    top:-20px;
+    left:5px;
+    z-index:99999;
+}
+
+#remoteSlider{
+    width:314px; 
+    height:681px;
+    position:absolute; 
+    top:0px; 
+    left:963px;
+    z-index:99996;
+}
+
+.remoteControl{
+    background-image:url('../images/remote.png');
+    background-repeat:no-repeat;  
+    width:253px; 
+    height:768px;
+    display:block;
+    position:absolute; 
+    top:0px; 
+    left:48px;
+    z-index:99998;
+}
+
+.remoteControlReconnectBtn{
+    width:50px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:142px; 
+    left:175px;
+    z-index:99999;
+}
+
+.remoteControlOKBtn{
+    width:55px; 
+    height:33px;
+    display:block;
+    position:absolute; 
+    top:267px; 
+    left:105px;
+    z-index:99999;
+}
+
+.remoteControlLeftBtn{
+    width:30px; 
+    height:60px;
+    display:block;
+    position:absolute; 
+    top:253px; 
+    left:65px;
+    z-index:99999;
+}
+
+.remoteControlRightBtn{
+    width:30px; 
+    height:60px;
+    display:block;
+    position:absolute; 
+    top:253px; 
+    left:170px;
+    z-index:99999;
+}
+
+.remoteControlUpBtn{
+    width:55px; 
+    height:30px;
+    display:block;
+    position:absolute; 
+    top:230px; 
+    left:105px;
+    z-index:99999;
+}
+
+.remoteControlDownBtn{
+    width:55px; 
+    height:30px;
+    display:block;
+    position:absolute; 
+    top:307px; 
+    left:105px;
+    z-index:99999;
+}
+
+.remoteControlABtn{
+    width:30px; 
+    height:30px;
+    display:block;
+    position:absolute; 
+    top:190px; 
+    left:77px;
+    z-index:99999;
+}
+
+.remoteControlBBtn{
+    width:30px; 
+    height:30px;
+    display:block;
+    position:absolute; 
+    top:190px; 
+    left:119px;
+    z-index:99999;
+}
+
+.remoteControlCBtn{
+    width:30px; 
+    height:30px;
+    display:block;
+    position:absolute; 
+    top:190px; 
+    left:161px;
+    z-index:99999;
+}
+
+.remoteControlPlayBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:60px; 
+    left:105px;
+    z-index:99999;
+}
+
+.remoteControlPauseBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:102px; 
+    left:105px;
+    z-index:99999;
+}
+
+.remoteControlStopBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:102px; 
+    left:35px;
+    z-index:99999;
+}
+
+.remoteControlRecordBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:102px; 
+    left:175px;
+    z-index:99999;
+}
+
+.remoteControlNextBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:60px; 
+    left:175px;
+    z-index:99999;
+}
+
+.remoteControlPreviousBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:60px; 
+    left:32px;
+    z-index:99999;
+}
+
+.remoteControlExitBtn{
+    width:47px; 
+    height:33px;
+    display:block;
+    position:absolute; 
+    top:393px; 
+    left:30px;
+    z-index:99999;
+}
+
+.remoteControlBackBtn{
+    width:47px; 
+    height:33px;
+    display:block;
+    position:absolute; 
+    top:393px; 
+    left:190px;
+    z-index:99999;
+}
+
+.remoteControlMenuBtn{
+    width:40px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:315px; 
+    left:190px;
+    z-index:99999;
+}
+
+.remoteControlGuideBtn{
+    width:40px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:315px; 
+    left:36px;
+    z-index:99999;
+}
+
+.remoteControlInfoBtn{
+    width:55px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:352px; 
+    left:105px;
+    z-index:99999;
+}
+
+.remoteControlDVRBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:142px; 
+    left:105px;
+    z-index:99999;
+}
+
+.remoteControlResetBtn{
+    width:60px; 
+    height:35px;
+    display:block;
+    position:absolute; 
+    top:142px; 
+    left:35px;
+    z-index:99999;
+}
+
+.remoteToggle{
+    width:61px; 
+    height: 128px; 
+    display:block;
+    position:relative; 
+    top:320px; 
+    left:0px;
+    z-index:99999;
+}
+
+
+.detailsNavOverviewButton{
+    left:315px;
+    top:13px;
+    width:100px;
+    height:31px;
+    display:block;
+    position:absolute;
+    z-index:99999;
+}
+
+.detailsNavCreditsButton{
+    left:422px;
+    top:13px;
+    width:95px;
+    height:31px;
+    display:block;
+    position:absolute;
+    z-index:99999;
+}
+
+#notifications{
+    position:absolute;
+    top:100px;
+    left:0px;
+    width:1024px;
+    height:688px;
+    
+}
+
+#favoritesContent, #onDemandContent, #queueContent {
+    position:absolute;
+    top:100px;
+    left:2000px;
+    width:1024px;
+    height:688px;
+    margin:0 auto;
+    opacity:1;
+    overflow-y:scroll;
+    -webkit-transition: left .5s ease-out;
+}
+
+#castOverview, #castFilmography {
+    position:absolute;
+    top:57px;
+    left:2000px;
+    overflow-y:scroll;
+    -webkit-transition: left .5s ease-out;
+    height:688px;
+}
+
+
+#onTV{
+    position:absolute;
+    top:100px;
+    left:160px;
+    width:800px;
+    height:688px;
+    opacity:0;
+}
+
+.onTvImg{
+    position:relative;
+    left:175px;
+    top:50px;
+}
+
+
+#onDemandContent.animateIn, #favoritesContent.animateIn {
+    left:85px;
+}
+
+#queueContent.animateIn {
+    left:130px;
+}
+
+#castOverview.animateIn, #castFilmography.animateIn {
+    left:0px;
+}
+
+#favoritesContent.animateOut, #overviewContent.animateOut, #queueContent.animateOut, #castOverview.animateOut, #castFilmography.animateOut {
+    left:-2000px;
+    display:none;
+}
+
+#onDemandContent.fadeOut, #onTV.fadeOut, #favoritesContent.fadeOut, #queueContent.fadeOut, #castOverview.fadeOut, #castFilmography.fadeOut {
+    opacity:0;
+    -webkit-transition: opacity .5s ease-out;
+}
+
+#onTV.fadeIn{
+    opacity:1;
+    -webkit-transition: opacity .5s ease-in;
+}
+
+#featurePhoto {
+    background-image:url('../images/overviewPlaceholder.png');
+    background-repeat:no-repeat;
+    text-align:center;
+}
+
+#favoritesContent h2, #onDemandContent h2, #queueContent h2, #castOverview h2, #castFilmography h2 {
+    font-family:Museo;
+    font-size:22px;
+    color:#ffffff;
+    padding:0;
+    
+}
+
+#castFilmography h2 {
+    margin-left:0;
+}
+
+#programPlaceholder {
+    background-image:url('../images/programPlaceholder.png');
+    background-repeat:no-repeat;
+    width:135px;
+    height:135px;
+    text-align:center;
+    vertical-align:middle;
+}
+
+#programPlaceholderQueue {
+    background-image:url('../images/programPlaceholder.png');
+    background-repeat:no-repeat;
+    width:135px;
+    height:135px;
+}
+
+#programIcon {
+    max-height:133px;
+    max-width:130px;
+}
+
+#queueContent table td h2, #castFilmography table td h2{
+    padding:0 !important;
+    margin-top:-2px;
+    
+}
+#queueContent table td h2 span, #castFilmography table td h2 span{
+    padding:2px 0 0 3px !important;
+    margin:0 !important;
+}
+#progressBar{
+    position:absolute;
+    left:2px;
+    top:183px !important;
+    z-index:999;
+}
+
+#recordProgram{
+    position:absolute;
+    left:567px;
+    top:165px;
+    z-index:9999;
+}
+
+#castContainer {
+    margin:0 auto;
+    width:775px;
+}
+
+#castOverview p {
+    font-family:Museo;
+    font-size:18px;
+    color:#ffffff;
+    padding: 15px 0;
+}
+
+#loadingAnimation {
+    vertical-align:text-bottom;
+}
+
+ul {
+    font-family:Museo;
+    font-size:18px;
+    color:#ffffff;
+}
+
+#castOverview #details {
+    width:736px;
+    background-color:#000000;
+    font-family:Museo;
+    color:#ffffff;
+    background: rgba(0, 0, 0, 0.6);
+    padding:20px;
+    height:65px;
+    
+}
+
+#castFilmography table{
+    padding-left:150px;
+    width:800px;
+}
+
+
+
+#detailsNav{
+    background-image:url('../images/detailsNavTile.png'); 
+    background-repeat:repeat-x;
+    margin:0 auto;
+    padding:10px;
+    width:1024px;
+    text-align:center;
+}
+
+#details h2{
+    margin:0;
+    padding-top:13px;
+}
+
+#details p{
+    margin:0;
+    padding:0;
+}
+
+.celebImgSm{
+    float:left;
+    padding:10px;
+    max-width:94px;
+    max-height:57px;
+}
+
+#onDemandContentTable, #favoritesContentTable {
+    border-collapse:separate;
+    border-spacing:8px 8px;
+}
+
+#favoritesContent table td, #onDemandContent table td{
+    padding:0;
+}
+
+#queueContent table{
+    width:800px;
+}
+
+#creditsDivider {
+    height:7px;
+    background: url(../images/divider.png);
+}
+
+#queueDivider {
+    height:7px;
+    background: url(../images/divider.png) no-repeat center;
+}
+
+#queueContent table td, #castFilmography table td{
+    padding:0;
+    color:#ffffff;
+}
+
+#queueContent table td p, #castFilmography table td p{
+    font-family:Museo;
+    padding-left:3px;
+    margin:0;
+    width:450px;
+}
+
+#castFilmography #details{
+    width:100%;
+    background-color:#000000;
+    font-family:Museo;
+    color:#ffffff;
+    background: rgba(0, 0, 0, 0.6);
+    padding:10px 10px 10px 150px;
+    height:65px;
+    margin-top:-9px;
+}
+
+
+/*---Right Bubble---*/
+#rightBubble{
+    width:343px;
+    position:absolute;
+    bottom:350px;
+    left:540px;
+    z-index:9999;
+}
+
+#rightBubble #rBubbleMain{
+    background-image:url('../images/rBubbleTile.png');
+    background-repeat: repeat-y;
+    padding:0 20px;
+    font-family: Museo, sans-serif;
+    font-size:23px;
+    padding-left:30px;
+    padding-top:20px;
+}
+
+#rightBubble #rBubbleTop{
+    position:relative;
+    top:0px;
+    background-image:url('../images/rBubbleTop.png'); 
+    background-repeat:no-repeat;
+    height:18px;
+}
+#rightBubble #rBubbleBottom{
+    background-image:url('../images/rBubbleBottom.png');
+    background-repeat:no-repeat;
+    position:relative;
+    bottom:0px;
+    height: 33px;
+    clear:both;
+}
+
+/*----Left Bubble---*/
+#leftBubble{
+    width:343px;
+    position:absolute;
+    bottom:470px;
+    left:100px;
+    z-index:9999;
+}
+#leftBubble #lBubbleMain{
+    background-image:url('../images/lBubbleTile.png'); 
+    background-repeat:repeat-y;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:5px;
+    font-family: Museo, sans-serif;
+    font-size:23px;
+}
+
+#leftBubble #lBubbleTop{
+    position:relative;
+    top:0px;
+    background-image:url('../images/lBubbleTop.png');
+    background-repeat:no-repeat;
+    height:18px;
+}
+#leftBubble #lBubbleBottom{
+    background-image:url('../images/lBubbleBottom.png');
+    background-repeat:no-repeat;
+    position:relative;
+    bottom:0px;
+    height: 33px;
+    clear:both;
+}
+
+
+.sideLeft{
+    width:29px;
+    height:59px;
+    float:left;
+    display:inline;
+    margin:0;
+    padding:0;
+}
+
+#bottomNotBubble{
+    position:absolute;
+    top:670px;
+    left:22px;
+    z-index:999999;
+    background-image:url('../images/bottomNotBubble.png');
+    background-repeat:no-repeat;
+    height:41px;
+    width:45px;
+    opacity:1;
+}
+
+#bottomNotBubble p{
+    font-family:Museo, sans-serif;
+    font-size:13px;
+    height:15px;
+    width:35px;
+    text-align:center;
+    margin-top:15px;
+    color:#939393;
+    padding:0;
+}
+
+.nonActionable, .actionable{
+    width:300px;
+    height:300px;
+    display:inline;
+    color:#000000;
+}

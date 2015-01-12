@@ -1,0 +1,2474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<groupDefs>
+    
+    <groupDef title="Popular">
+        
+        <movieBrief id="10409708" title="Inception" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Inception/_derived_png24_274x190_m0/1210inception1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Dom Cobb (Leonardo DiCaprio) steals ideas from people while they sleep, but his career has cost him everything in his life that&apos;s real. His only shot at redemption is to take a job in which he must plant an idea into someone&apos;s dream</synopsis>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>148</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <movieBrief id="12373806" title="Kick-Ass" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Kick-Ass/_derived_jpg_q90_246x326_m0/0810kickass1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Teenage comic-book geek Dave (Aaron Johnson) dons a superhero costume and fights crime under the name Kick-Ass, despite having no special powers. Soon, a father-daughter crime-fighting duo called Big Daddy and Hit-Girl are following his lead.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <runtime>117</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <movieBrief id="16581439" title="Killers" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Killers/_derived_jpg_q90_246x326_m0/072818H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Three years after giving up his guns to marry the woman of his dreams, former government hit man Spencer Aimes (Ashton Kutcher) becomes a walking target for assassins when a multimillion-dollar bounty is put on his head.</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>      
+            
+            <runtime>101</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2010</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="8164994" title="The Dark Knight" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/The%20Dark%20Knight/_derived_png24_274x190_m0/055304H1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In Christopher Nolan&apos;s intense sequel, Batman (Christian Bale) and  idealistic DA Harvey Dent join forces to arrest and prosecute Gotham City&apos;s crime lords. But the deranged Joker (Heath Ledger) raises the stakes by declaring all-out war</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>152</runtime>
+            <releaseYear>2008</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <movieBrief id="19906694" title="PlayBack" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Playback/_derived_jpg_q90_246x326_m0/124384r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>
+                A group of teenagers look into a dark chapter of their town's past and unwittingly unleash a lethal force that could destroy them.
+            </synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <tvRating>None</tvRating>
+            <movieRating>R</movieRating>
+            <runtime>98</runtime>
+            <genre>horror</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="5527853" title="Inside Man" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Inside%20Man/_derived_jpg_q90_246x326_m0/050986H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Riveting heist drama starring Denzel Washington as an NYPD hostage negotiator who suspects that there is more than meets the eye to a bank-robbery situation. Clive Owen</synopsis>
+            <qualityRating>
+                <score>3</score>
+                <outOf>5</outOf>
+            </qualityRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Norway TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14@DLV</rating>
+            </parentalRating>
+            <runtime>129</runtime>
+            <genre>crime drama</genre>
+            <releaseYear>2006</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="16492290" title="Contagion" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Contagion/_derived_jpg_q90_246x326_m0/116127r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In this ensemble thriller about a virus that quickly becomes a global pandemic, a husband (Matt Damon) copes with the sudden death of his wife, while a doctor (Kate Winslet) puts herself at risk to find a cure</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <runtime>106</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="7390241" title="Dragon Wars" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Dragon%20Wars%20(D-War)/_derived_jpg_q90_246x326_m0/059747H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A reporter finds himself thrust into a battle against fire-breathing dragons that attack modern-day Los Angeles in this goofy creature feature. Jason Behr, Amanda Brooks, Robert Forster</synopsis>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14@LV</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>89</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2007</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="18778220" title="Immortals" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Immortals%203D/_derived_jpg_q90_246x326_m0/118060r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A brave young man named Theseus (Henry Cavill) assembles a band of fierce warriors to stop King Hyperion from acquiring a weapon that will allow him to conquer the world in this fantasy adventure based on stories from Greek mythology.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <runtime>110</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19541901" title="Coriolanus" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Coriolanus/_derived_jpg_q90_246x326_m0/Coriolanus-PosterArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Roman general Caius &quot;Coriolanus&quot; Martius (Ralph Fiennes) forges an alliance with his archnemesis in order to take revenge on Rome after he is exiled from the city. Fiennes also directed this adaptation of Shakespeare&apos;s play.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <runtime>122</runtime>
+            <genre>drama</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="62991" title="The Terminator" imageSource="http://cps-static.rovicorp.com/2/Open/20th%20Century%20Fox/The%20Terminator/_derived_jpg_q90_246x326_m0/TheTerminator-PosterArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Arnold Schwarzenegger as a 21st-century automaton sent to present-day L.A. to assassinate a woman (Linda Hamilton). Kyle: Michael Biehn. Traxler: Paul Winfield.</synopsis>
+            <qualityRating>
+                <score>3</score>
+                <outOf>5</outOf>
+            </qualityRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <runtime>105</runtime>
+            <genre>sci-fi</genre>
+            <releaseYear>1984</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19867362" title="Contraband" imageSource="http://cps-static.rovicorp.com/2/Open/NBC%20Universal%20Distribution/Movies/Contraband/_derived_jpg_q90_246x326_m0/05653_contraband_900x1200.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Retired smuggler Chris Farraday (Mark Wahlberg) faces ruthless drug lords, vicious criminals, corrupt officials and trigger-happy hit men after he gets back into the business to help his desperate brother-in-law settle a debt.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>K16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <runtime>109</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19791621" title="Dark Tide" imageSource="http://cps-static.rovicorp.com/2/Open/Lionsgate/Movies/Dark%20Tide/_derived_jpg_q90_246x326_m0/9382501_z_darkkcau.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A renowned shark expert attempts to recover from a tragic diving mishap by taking a wealthy businessman swimming with the deep-sea predators, only to get stranded in a dangerous feeding ground known as &quot;Shark Alley.&quot;</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <runtime>114</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19428740" title="Haywire" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Haywire/_derived_jpg_q90_246x326_m0/094822r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>U.S. operative Mallory Kane (Gina Carano) becomes an enemy of the state after she saves a Chinese journalist from certain death. As assassins close in from all sides, Mallory races to expose a massive conspiracy.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>K16</rating>
+            </parentalRating>
+            <runtime>92</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19763558" title="Underworld: Awakening" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Underworld%20%20Awakening%20%20An%20IMAX%20Experience/_derived_jpg_q90_246x326_m0/129479r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Selene gets caught up in a brewing war between mankind and the creatures of the night after humans learn about the existence of vampires and werewolves and vow to exterminate them.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <runtime>88</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="18844210" title="In Time" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/In%20Time/_derived_jpg_q90_246x326_m0/108401r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In a future in which human beings can purchase a longer lifespan, Will Salas (Justin Timberlake) is targeted by a mysterious group known as the Time Keepers after he stumbles on a treasure chest that could allow him to live forever.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <runtime>109</runtime>
+            <genre>sci-fi</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="12186782" title="The Town" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/The%20Town/_derived_jpg_q90_246x326_m0/1210thetown1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Boston bank robber Doug MacRay (Ben Affleck) falls for a woman his gang took hostage after feigning a chance meeting with her in order to ensure that she can&apos;t identify them. In time, he realizes he may have a chance to leave his life of crime behind.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <runtime>125</runtime>
+            <genre>crime drama</genre>
+            <releaseYear>2010</releaseYear>
+        </movieBrief>
+        
+        
+        <movieBrief id="14379369" title="Cowboys &amp; Aliens" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Cowboys%20%26%20Aliens/_derived_jpg_q90_246x326_m0/089006r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Jake Lonergan (Daniel Craig) wakes up in the Old West with a high-tech gadget on his wrist and no memory of his past. According to the townsfolk he&apos;s a wanted criminal, but when aliens attack, Jake and his gadget turn out to be their only hope</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <runtime>118</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+    </groupDef>
+    
+    <groupDef title="New Releases"> 
+        
+        <movieBrief id="14379369" title="Cowboys &amp; Aliens" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Cowboys%20%26%20Aliens/_derived_jpg_q90_246x326_m0/089006r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Jake Lonergan (Daniel Craig) wakes up in the Old West with a high-tech gadget on his wrist and no memory of his past. According to the townsfolk he&apos;s a wanted criminal, but when aliens attack, Jake and his gadget turn out to be their only hope</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <runtime>118</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19763558" title="Underworld: Awakening" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Underworld%20%20Awakening%20%20An%20IMAX%20Experience/_derived_jpg_q90_246x326_m0/129479r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Selene gets caught up in a brewing war between mankind and the creatures of the night after humans learn about the existence of vampires and werewolves and vow to exterminate them.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <runtime>88</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="18844210" title="In Time" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/In%20Time/_derived_jpg_q90_246x326_m0/108401r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In a future in which human beings can purchase a longer lifespan, Will Salas (Justin Timberlake) is targeted by a mysterious group known as the Time Keepers after he stumbles on a treasure chest that could allow him to live forever.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <runtime>109</runtime>
+            <genre>sci-fi</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="16581439" title="Killers" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Killers/_derived_jpg_q90_246x326_m0/072818H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Three years after giving up his guns to marry the woman of his dreams, former government hit man Spencer Aimes (Ashton Kutcher) becomes a walking target for assassins when a multimillion-dollar bounty is put on his head.</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>      
+            
+            <runtime>101</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2010</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="8164994" title="The Dark Knight" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/The%20Dark%20Knight/_derived_png24_274x190_m0/055304H1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In Christopher Nolan&apos;s intense sequel, Batman (Christian Bale) and  idealistic DA Harvey Dent join forces to arrest and prosecute Gotham City&apos;s crime lords. But the deranged Joker (Heath Ledger) raises the stakes by declaring all-out war</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>152</runtime>
+            <releaseYear>2008</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <movieBrief id="19906694" title="PlayBack" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Playback/_derived_jpg_q90_246x326_m0/124384r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>
+                A group of teenagers look into a dark chapter of their town's past and unwittingly unleash a lethal force that could destroy them.
+            </synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <tvRating>None</tvRating>
+            <movieRating>R</movieRating>
+            <runtime>98</runtime>
+            <genre>horror</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        
+        <movieBrief id="5527853" title="Inside Man" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Inside%20Man/_derived_jpg_q90_246x326_m0/050986H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Riveting heist drama starring Denzel Washington as an NYPD hostage negotiator who suspects that there is more than meets the eye to a bank-robbery situation. Clive Owen</synopsis>
+            <qualityRating>
+                <score>3</score>
+                <outOf>5</outOf>
+            </qualityRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Norway TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14@DLV</rating>
+            </parentalRating>
+            <runtime>129</runtime>
+            <genre>crime drama</genre>
+            <releaseYear>2006</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="10409708" title="Inception" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Inception/_derived_png24_274x190_m0/1210inception1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Dom Cobb (Leonardo DiCaprio) steals ideas from people while they sleep, but his career has cost him everything in his life that&apos;s real. His only shot at redemption is to take a job in which he must plant an idea into someone&apos;s dream</synopsis>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>148</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        
+        
+        <movieBrief id="18778220" title="Immortals" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Immortals%203D/_derived_jpg_q90_246x326_m0/118060r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A brave young man named Theseus (Henry Cavill) assembles a band of fierce warriors to stop King Hyperion from acquiring a weapon that will allow him to conquer the world in this fantasy adventure based on stories from Greek mythology.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <runtime>110</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19541901" title="Coriolanus" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Coriolanus/_derived_jpg_q90_246x326_m0/Coriolanus-PosterArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Roman general Caius &quot;Coriolanus&quot; Martius (Ralph Fiennes) forges an alliance with his archnemesis in order to take revenge on Rome after he is exiled from the city. Fiennes also directed this adaptation of Shakespeare&apos;s play.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <runtime>122</runtime>
+            <genre>drama</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="62991" title="The Terminator" imageSource="http://cps-static.rovicorp.com/2/Open/20th%20Century%20Fox/The%20Terminator/_derived_jpg_q90_246x326_m0/TheTerminator-PosterArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Arnold Schwarzenegger as a 21st-century automaton sent to present-day L.A. to assassinate a woman (Linda Hamilton). Kyle: Michael Biehn. Traxler: Paul Winfield.</synopsis>
+            <qualityRating>
+                <score>3</score>
+                <outOf>5</outOf>
+            </qualityRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <runtime>105</runtime>
+            <genre>sci-fi</genre>
+            <releaseYear>1984</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19867362" title="Contraband" imageSource="http://cps-static.rovicorp.com/2/Open/NBC%20Universal%20Distribution/Movies/Contraband/_derived_jpg_q90_246x326_m0/05653_contraband_900x1200.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Retired smuggler Chris Farraday (Mark Wahlberg) faces ruthless drug lords, vicious criminals, corrupt officials and trigger-happy hit men after he gets back into the business to help his desperate brother-in-law settle a debt.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>K16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <runtime>109</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="12373806" title="Kick-Ass" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Kick-Ass/_derived_jpg_q90_246x326_m0/0810kickass1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Teenage comic-book geek Dave (Aaron Johnson) dons a superhero costume and fights crime under the name Kick-Ass, despite having no special powers. Soon, a father-daughter crime-fighting duo called Big Daddy and Hit-Girl are following his lead.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <runtime>117</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <movieBrief id="7390241" title="Dragon Wars" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Dragon%20Wars%20(D-War)/_derived_jpg_q90_246x326_m0/059747H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A reporter finds himself thrust into a battle against fire-breathing dragons that attack modern-day Los Angeles in this goofy creature feature. Jason Behr, Amanda Brooks, Robert Forster</synopsis>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14@LV</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>89</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2007</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19791621" title="Dark Tide" imageSource="http://cps-static.rovicorp.com/2/Open/Lionsgate/Movies/Dark%20Tide/_derived_jpg_q90_246x326_m0/9382501_z_darkkcau.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A renowned shark expert attempts to recover from a tragic diving mishap by taking a wealthy businessman swimming with the deep-sea predators, only to get stranded in a dangerous feeding ground known as &quot;Shark Alley.&quot;</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <runtime>114</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19428740" title="Haywire" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Haywire/_derived_jpg_q90_246x326_m0/094822r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>U.S. operative Mallory Kane (Gina Carano) becomes an enemy of the state after she saves a Chinese journalist from certain death. As assassins close in from all sides, Mallory races to expose a massive conspiracy.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>K16</rating>
+            </parentalRating>
+            <runtime>92</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        
+        
+        <movieBrief id="12186782" title="The Town" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/The%20Town/_derived_jpg_q90_246x326_m0/1210thetown1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Boston bank robber Doug MacRay (Ben Affleck) falls for a woman his gang took hostage after feigning a chance meeting with her in order to ensure that she can&apos;t identify them. In time, he realizes he may have a chance to leave his life of crime behind.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <runtime>125</runtime>
+            <genre>crime drama</genre>
+            <releaseYear>2010</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="16492290" title="Contagion" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Contagion/_derived_jpg_q90_246x326_m0/116127r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In this ensemble thriller about a virus that quickly becomes a global pandemic, a husband (Matt Damon) copes with the sudden death of his wife, while a doctor (Kate Winslet) puts herself at risk to find a cure</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <runtime>106</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+    </groupDef>
+    
+    <groupDef title="Movies">
+        
+        <movieBrief id="19541901" title="Coriolanus" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Coriolanus/_derived_jpg_q90_246x326_m0/Coriolanus-PosterArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Roman general Caius &quot;Coriolanus&quot; Martius (Ralph Fiennes) forges an alliance with his archnemesis in order to take revenge on Rome after he is exiled from the city. Fiennes also directed this adaptation of Shakespeare&apos;s play.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <runtime>122</runtime>
+            <genre>drama</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="62991" title="The Terminator" imageSource="http://cps-static.rovicorp.com/2/Open/20th%20Century%20Fox/The%20Terminator/_derived_jpg_q90_246x326_m0/TheTerminator-PosterArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Arnold Schwarzenegger as a 21st-century automaton sent to present-day L.A. to assassinate a woman (Linda Hamilton). Kyle: Michael Biehn. Traxler: Paul Winfield.</synopsis>
+            <qualityRating>
+                <score>3</score>
+                <outOf>5</outOf>
+            </qualityRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <runtime>105</runtime>
+            <genre>sci-fi</genre>
+            <releaseYear>1984</releaseYear>
+        </movieBrief>
+        
+        
+        
+        <movieBrief id="16581439" title="Killers" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Killers/_derived_jpg_q90_246x326_m0/072818H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Three years after giving up his guns to marry the woman of his dreams, former government hit man Spencer Aimes (Ashton Kutcher) becomes a walking target for assassins when a multimillion-dollar bounty is put on his head.</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>      
+            
+            <runtime>101</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2010</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="8164994" title="The Dark Knight" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/The%20Dark%20Knight/_derived_png24_274x190_m0/055304H1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In Christopher Nolan&apos;s intense sequel, Batman (Christian Bale) and  idealistic DA Harvey Dent join forces to arrest and prosecute Gotham City&apos;s crime lords. But the deranged Joker (Heath Ledger) raises the stakes by declaring all-out war</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>152</runtime>
+            <releaseYear>2008</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        
+        
+        <movieBrief id="19867362" title="Contraband" imageSource="http://cps-static.rovicorp.com/2/Open/NBC%20Universal%20Distribution/Movies/Contraband/_derived_jpg_q90_246x326_m0/05653_contraband_900x1200.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Retired smuggler Chris Farraday (Mark Wahlberg) faces ruthless drug lords, vicious criminals, corrupt officials and trigger-happy hit men after he gets back into the business to help his desperate brother-in-law settle a debt.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>K16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <runtime>109</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="10409708" title="Inception" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Inception/_derived_png24_274x190_m0/1210inception1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Dom Cobb (Leonardo DiCaprio) steals ideas from people while they sleep, but his career has cost him everything in his life that&apos;s real. His only shot at redemption is to take a job in which he must plant an idea into someone&apos;s dream</synopsis>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>148</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <movieBrief id="12373806" title="Kick-Ass" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Kick-Ass/_derived_jpg_q90_246x326_m0/0810kickass1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Teenage comic-book geek Dave (Aaron Johnson) dons a superhero costume and fights crime under the name Kick-Ass, despite having no special powers. Soon, a father-daughter crime-fighting duo called Big Daddy and Hit-Girl are following his lead.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <runtime>117</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <movieBrief id="16492290" title="Contagion" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Contagion/_derived_jpg_q90_246x326_m0/116127r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In this ensemble thriller about a virus that quickly becomes a global pandemic, a husband (Matt Damon) copes with the sudden death of his wife, while a doctor (Kate Winslet) puts herself at risk to find a cure</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <runtime>106</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="14379369" title="Cowboys &amp; Aliens" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Cowboys%20%26%20Aliens/_derived_jpg_q90_246x326_m0/089006r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Jake Lonergan (Daniel Craig) wakes up in the Old West with a high-tech gadget on his wrist and no memory of his past. According to the townsfolk he&apos;s a wanted criminal, but when aliens attack, Jake and his gadget turn out to be their only hope</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <runtime>118</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="18778220" title="Immortals" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Immortals%203D/_derived_jpg_q90_246x326_m0/118060r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A brave young man named Theseus (Henry Cavill) assembles a band of fierce warriors to stop King Hyperion from acquiring a weapon that will allow him to conquer the world in this fantasy adventure based on stories from Greek mythology.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <runtime>110</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+        
+        
+        <movieBrief id="19791621" title="Dark Tide" imageSource="http://cps-static.rovicorp.com/2/Open/Lionsgate/Movies/Dark%20Tide/_derived_jpg_q90_246x326_m0/9382501_z_darkkcau.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A renowned shark expert attempts to recover from a tragic diving mishap by taking a wealthy businessman swimming with the deep-sea predators, only to get stranded in a dangerous feeding ground known as &quot;Shark Alley.&quot;</synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <runtime>114</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19428740" title="Haywire" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Haywire/_derived_jpg_q90_246x326_m0/094822r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>U.S. operative Mallory Kane (Gina Carano) becomes an enemy of the state after she saves a Chinese journalist from certain death. As assassins close in from all sides, Mallory races to expose a massive conspiracy.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>K16</rating>
+            </parentalRating>
+            <runtime>92</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19906694" title="PlayBack" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Playback/_derived_jpg_q90_246x326_m0/124384r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>
+                A group of teenagers look into a dark chapter of their town's past and unwittingly unleash a lethal force that could destroy them.
+            </synopsis>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <tvRating>None</tvRating>
+            <movieRating>R</movieRating>
+            <runtime>98</runtime>
+            <genre>horror</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="5527853" title="Inside Man" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Inside%20Man/_derived_jpg_q90_246x326_m0/050986H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Riveting heist drama starring Denzel Washington as an NYPD hostage negotiator who suspects that there is more than meets the eye to a bank-robbery situation. Clive Owen</synopsis>
+            <qualityRating>
+                <score>3</score>
+                <outOf>5</outOf>
+            </qualityRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Norway TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14@DLV</rating>
+            </parentalRating>
+            <runtime>129</runtime>
+            <genre>crime drama</genre>
+            <releaseYear>2006</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="7390241" title="Dragon Wars" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Dragon%20Wars%20(D-War)/_derived_jpg_q90_246x326_m0/059747H1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A reporter finds himself thrust into a battle against fire-breathing dragons that attack modern-day Los Angeles in this goofy creature feature. Jason Behr, Amanda Brooks, Robert Forster</synopsis>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>NR</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>T</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14@LV</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>89</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2007</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="12186782" title="The Town" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/The%20Town/_derived_jpg_q90_246x326_m0/1210thetown1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Boston bank robber Doug MacRay (Ben Affleck) falls for a woman his gang took hostage after feigning a chance meeting with her in order to ensure that she can&apos;t identify them. In time, he realizes he may have a chance to leave his life of crime behind.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <runtime>125</runtime>
+            <genre>crime drama</genre>
+            <releaseYear>2010</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="19763558" title="Underworld: Awakening" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Underworld%20%20Awakening%20%20An%20IMAX%20Experience/_derived_jpg_q90_246x326_m0/129479r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Selene gets caught up in a brewing war between mankind and the creatures of the night after humans learn about the existence of vampires and werewolves and vow to exterminate them.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Luxembourg TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>18A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <runtime>88</runtime>
+            <genre>action/adventure</genre>
+            <releaseYear>2012</releaseYear>
+        </movieBrief>
+        
+        <movieBrief id="18844210" title="In Time" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/In%20Time/_derived_jpg_q90_246x326_m0/108401r1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>In a future in which human beings can purchase a longer lifespan, Will Salas (Justin Timberlake) is targeted by a mysterious group known as the Time Keepers after he stumbles on a treasure chest that could allow him to live forever.</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>12A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Switzerland TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <runtime>109</runtime>
+            <genre>sci-fi</genre>
+            <releaseYear>2011</releaseYear>
+        </movieBrief>
+        
+    </groupDef>
+    
+    
+</groupDefs>

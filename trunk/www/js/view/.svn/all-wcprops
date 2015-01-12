@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2666/main/velvetFog/trunk/www/js/view
+END
+CelebDetailsMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2648/main/velvetFog/trunk/www/js/view/CelebDetailsMediator.js
+END
+FavoritesMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2648/main/velvetFog/trunk/www/js/view/FavoritesMediator.js
+END
+DrawerMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2548/main/velvetFog/trunk/www/js/view/DrawerMediator.js
+END
+QueueMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2648/main/velvetFog/trunk/www/js/view/QueueMediator.js
+END
+OnDemandMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2649/main/velvetFog/trunk/www/js/view/OnDemandMediator.js
+END
+ShellMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2658/main/velvetFog/trunk/www/js/view/ShellMediator.js
+END
+CelebCreditsMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2648/main/velvetFog/trunk/www/js/view/CelebCreditsMediator.js
+END
+BasePaneMediator.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2651/main/velvetFog/trunk/www/js/view/BasePaneMediator.js
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/debugview
+END
+CDVDebugWebView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/debugview/CDVDebugWebView.h
+END
+CDVDebugWebView.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/debugview/CDVDebugWebView.m
+END
+WebScriptDebugDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/debugview/WebScriptDebugDelegate.h
+END

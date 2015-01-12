@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/AppDelegate.h
+END
+ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/ViewController.h
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/AppDelegate.m
+END
+Cordova.plist
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/Cordova.plist
+END
+CordovaLibApp-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/CordovaLibApp-Info.plist
+END
+CordovaLibApp-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/CordovaLibApp-Prefix.pch
+END
+ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibApp/ViewController.m
+END

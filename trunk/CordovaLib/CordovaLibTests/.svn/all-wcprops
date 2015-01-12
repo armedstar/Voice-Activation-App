@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests
+END
+CDVBase64Tests.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVBase64Tests.m
+END
+CDVFileTransferTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVFileTransferTests.m
+END
+CDVPluginResultJSONSerializationTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVPluginResultJSONSerializationTests.m
+END
+CDVWebViewTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVWebViewTest.m
+END
+CDVFakeFileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVFakeFileManager.h
+END
+CDVWhitelistTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVWhitelistTests.m
+END
+CDVContactsTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVContactsTests.m
+END
+CDVFakeFileManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVFakeFileManager.m
+END
+CDVLocalStorageTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVLocalStorageTests.m
+END
+CordovaLibTests-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CordovaLibTests-Info.plist
+END
+CDVWebViewTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVWebViewTest.h
+END
+CordovaLibTests-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CordovaLibTests-Prefix.pch
+END
+CDVInvokedUrlCommandTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/CordovaLibTests/CDVInvokedUrlCommandTests.m
+END

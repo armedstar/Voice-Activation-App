@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2971/main/velvetFog/trunk/www/js
+END
+AppFacade.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2651/main/velvetFog/trunk/www/js/AppFacade.js
+END
+ApplicationPreferences.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2462/main/velvetFog/trunk/www/js/ApplicationPreferences.js
+END
+websocket.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2429/main/velvetFog/trunk/www/js/websocket.js
+END
+nuanceVoiceRecognizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2567/main/velvetFog/trunk/www/js/nuanceVoiceRecognizer.js
+END
+cordova-2.1.0.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2971/main/velvetFog/trunk/www/js/cordova-2.1.0.js
+END
+GatewayService.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2647/main/velvetFog/trunk/www/js/GatewayService.js
+END

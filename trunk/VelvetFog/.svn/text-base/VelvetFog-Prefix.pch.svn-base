@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'VelvetFog' target in the 'VelvetFog' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif

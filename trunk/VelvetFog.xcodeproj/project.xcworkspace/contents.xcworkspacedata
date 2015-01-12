@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../shared/ios/TouchXML_1.0.7/TouchXML_1.0.7.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:VelvetFog.xcodeproj">
+   </FileRef>
+</Workspace>

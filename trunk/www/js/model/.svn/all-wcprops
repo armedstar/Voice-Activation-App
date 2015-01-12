@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2658/main/velvetFog/trunk/www/js/model
+END
+QueueProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2647/main/velvetFog/trunk/www/js/model/QueueProxy.js
+END
+RAFInputProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2658/main/velvetFog/trunk/www/js/model/RAFInputProxy.js
+END
+RAFProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2524/main/velvetFog/trunk/www/js/model/RAFProxy.js
+END
+RecordManagerProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2646/main/velvetFog/trunk/www/js/model/RecordManagerProxy.js
+END
+RAFVO.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2397/main/velvetFog/trunk/www/js/model/RAFVO.js
+END
+GatewayProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2487/main/velvetFog/trunk/www/js/model/GatewayProxy.js
+END

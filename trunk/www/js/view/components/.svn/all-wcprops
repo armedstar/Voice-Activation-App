@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2666/main/velvetFog/trunk/www/js/view/components
+END
+CelebDetailsPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2642/main/velvetFog/trunk/www/js/view/components/CelebDetailsPane.js
+END
+Drawer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2612/main/velvetFog/trunk/www/js/view/components/Drawer.js
+END
+FavoritesPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2525/main/velvetFog/trunk/www/js/view/components/FavoritesPane.js
+END
+NotificationPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2525/main/velvetFog/trunk/www/js/view/components/NotificationPanel.js
+END
+Shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2658/main/velvetFog/trunk/www/js/view/components/Shell.js
+END
+iscroll.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2483/main/velvetFog/trunk/www/js/view/components/iscroll.js
+END
+QueuePane.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2666/main/velvetFog/trunk/www/js/view/components/QueuePane.js
+END
+OnDemandPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2559/main/velvetFog/trunk/www/js/view/components/OnDemandPane.js
+END
+CelebCreditsPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2651/main/velvetFog/trunk/www/js/view/components/CelebCreditsPane.js
+END
+UIComponent.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2595/main/velvetFog/trunk/www/js/view/components/UIComponent.js
+END

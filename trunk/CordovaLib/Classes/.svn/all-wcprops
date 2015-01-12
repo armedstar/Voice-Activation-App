@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes
+END
+CDVCordovaView.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVCordovaView.m
+END
+NSData+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSData+Base64.h
+END
+CDVSplashScreen.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVSplashScreen.m
+END
+NSData+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSData+Base64.m
+END
+CDVDebugConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVDebugConsole.h
+END
+CDVCommandDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVCommandDelegate.h
+END
+CDVAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVAccelerometer.h
+END
+CDVAvailability.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVAvailability.h
+END
+NSArray+Comparisons.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSArray+Comparisons.h
+END
+CDVEcho.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVEcho.h
+END
+CDVDebugConsole.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVDebugConsole.m
+END
+CDVAccelerometer.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVAccelerometer.m
+END
+NSArray+Comparisons.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSArray+Comparisons.m
+END
+CDVEcho.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVEcho.m
+END
+CDVFileTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVFileTransfer.h
+END
+CDVFileTransfer.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVFileTransfer.m
+END
+CDVContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVContact.h
+END
+CDVDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVDevice.h
+END
+CDVReachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVReachability.h
+END
+CDVContact.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVContact.m
+END
+CDVDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVDevice.m
+END
+CDVReachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVReachability.m
+END
+CDVWhitelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVWhitelist.h
+END
+CDVLocalStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVLocalStorage.h
+END
+CDV.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDV.h
+END
+CDVFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVFile.h
+END
+CDVWhitelist.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVWhitelist.m
+END
+CDVInvokedUrlCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVInvokedUrlCommand.h
+END
+CDVURLProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVURLProtocol.h
+END
+CDVLocalStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVLocalStorage.m
+END
+CDVFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVFile.m
+END
+CDVInvokedUrlCommand.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVInvokedUrlCommand.m
+END
+CDVCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVCamera.h
+END
+CDVSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVSound.h
+END
+CDVURLProtocol.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVURLProtocol.m
+END
+CDVCamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVCamera.m
+END
+CDVPluginResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVPluginResult.h
+END
+CDVSound.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVSound.m
+END
+CDVPluginResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVPluginResult.m
+END
+CDVCapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVCapture.h
+END
+NSDictionary+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSDictionary+Extensions.h
+END
+CDVCapture.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVCapture.m
+END
+NSDictionary+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSDictionary+Extensions.m
+END
+CDVBattery.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVBattery.h
+END
+NSMutableArray+QueueAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+END
+CDVViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVViewController.h
+END
+CDVBattery.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVBattery.m
+END
+CDVLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVLogger.h
+END
+NSMutableArray+QueueAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+END
+CDVViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVViewController.m
+END
+CDVLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVLogger.m
+END
+CDVNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVNotification.h
+END
+UIDevice+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/UIDevice+Extensions.h
+END
+CDVNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVNotification.m
+END
+CDVPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVPlugin.h
+END
+CDVConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVConnection.h
+END
+UIDevice+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/UIDevice+Extensions.m
+END
+CDVPlugin.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVPlugin.m
+END
+CDVConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVConnection.m
+END
+CDVLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVLocation.h
+END
+CDVLocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVLocation.m
+END
+CDVContacts.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVContacts.h
+END
+CDVContacts.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVContacts.m
+END
+CDVDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVDebug.h
+END
+CDVCordovaView.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVCordovaView.h
+END
+CDVSplashScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2971/main/velvetFog/trunk/CordovaLib/Classes/CDVSplashScreen.h
+END

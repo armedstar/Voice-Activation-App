@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<groupDefs>
+    
+    <groupDef title="Favorites">
+        <movieBrief id="17611767" title="127 Hours" imageSource="http://cps-static.rovicorp.com/2/Open/20th%20Century%20Fox/127%20Hours/_derived_png24_274x190_m0/127Hours-PosterArt.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Docudrama about adventurer Aron Ralston (James Franco), who was trapped in a Utah canyon for five days with his hand stuck under a boulder and eventually resorted to desperate measures in order to escape. Directed by Danny Boyle.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgacom Ratings</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>94</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>drama</genre>
+        </movieBrief>
+        
+        
+        <tvSeriesBrief id="14946527" title="The Walking Dead" imageSource="http://cps-static.rovicorp.com/2/Open/AMC/The%20Walking%20Dead/Season%201/_derived_jpg_q90_410x410_m0/TheWalkingDead-Season1-BoxArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A horror drama following the survivors of an apocalyptic holocaust</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <runtime>60</runtime>
+            <subCategory>drama</subCategory>
+            <genre>drama</genre>
+            <startYear>2010</startYear>
+        </tvSeriesBrief>
+        
+        <movieBrief id="18656776" title="The Social Network" imageSource="http://cps-static.rovicorp.com/2/Open/Sony%20Pictures/The%20Social%20Network/_derived_png24_274x190_m0/TheSocialNetwork-BoxArt.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Nerdy, awkward Harvard student Mark Zuckerberg (Jesse Eisenberg) becomes a billionaire by creating the Web site Facebook, but he ends up embroiled in legal disputes as the friends who helped him during his rise to the top are now eager to see him fall.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 6</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            
+            <runtime>120</runtime>        
+            <genre>drama</genre>
+            <releaseYear>2010</releaseYear>
+        </movieBrief>
+        
+        <tvSeriesBrief id="5859085" title="Dexter" imageSource="http://cps-static.rovicorp.com/2/Open/Showtime/Dexter/Season%206/_derived_jpg_q90_410x410_m0/Dexter-Season6-PosterArt1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <runtime>60</runtime>
+            <genre>drama</genre>
+            <startYear>2006</startYear>
+            <synopsis>A forensic expert lives a double life as a vigilante-serial killer who murders wrongdoers</synopsis>
+            <summary>A forensic expert lives a double life as a vigilante-serial killer who murders wrongdoers who've escaped justice.</summary>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-MA</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>CTV</parentalRatingType>
+                <rating>18+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Age Rating</parentalRatingType>
+                <rating>17</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Family Rating</parentalRatingType>
+                <rating>0</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>TV Star Rating</parentalRatingType>
+                <rating>3</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 3</rating>
+            </parentalRating>
+            <tvRating>TV-MA</tvRating>
+            <movieRating/>
+        </tvSeriesBrief>
+        
+		<tvSeriesBrief id="9855448" title="Glee" imageSource="http://cps-static.rovicorp.com/2/Open/Fox/Glee/Season%202/Showcard/_derived_png24_274x190_m0/glee_vs.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Musical comedy-drama about the misfits who make up a high-school glee club</synopsis>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>60</runtime>
+            <startYear>2009</startYear>
+            <genre>comedy-drama</genre>
+        </tvSeriesBrief>
+        
+        
+        <movieBrief id="9834653" title="Couples Retreat" imageSource="http://cps-static.rovicorp.com/2/Open/CinemaSource/Couples%20Retreat/_derived_png24_274x190_m0/070754H1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Vince Vaughn stars in this romantic comedy about a couple attempting to salvage their marriage by inviting three other couples to join them at an island resort.</synopsis>
+            <summary>Vince Vaughn stars in this romantic comedy about a couple attempting to salvage their marriage by inviting three other couples to join them at an island resort. However, everyone is disturbed to discover that participation in therapy sessions is mandatory if they hope to remain at the idyllic paradise. Directed by Peter Billingsley. Jon Favreau, Jason Bateman, Faizon Love, Kristen Bell, Jean Reno.</summary>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>13</rating>
+            </parentalRating>
+            <tvRating>None</tvRating>
+            <movieRating>PG-13</movieRating>
+            <runtime>107</runtime>
+            <releaseYear>2009</releaseYear>
+            <genre>comedy</genre>
+        </movieBrief>
+        
+        <movieBrief id="17611768" title="Black Swan" imageSource="http://cps-static.rovicorp.com/2/Open/20th%20Century%20Fox/Black%20Swan/_derived_png24_274x190_m0/BlackSwan-PosterArt.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Ballet dancer Nina (Natalie Portman) experiences traumatic hallucinations as she pushes her body to the limit in order to win the lead role in a production of &quot;Swan Lake.&quot; Meanwhile, she must also deal with competition from a rival dancer (Mila Kunis)</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>108</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>drama</genre>
+        </movieBrief>
+        
+        <tvSeriesBrief id="4668394" title="Bones" imageSource="http://cps-static.rovicorp.com/2/Open/Fox/Bones/_derived_jpg_q90_410x410_m0/bones_2shot_dance_1607_djrV4v2f.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A scientist with an &apos;uncanny ability to read clues left behind in a victim&apos;s bones&apos; solves murders</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>13+</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Age Rating</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Family Rating</parentalRatingType>
+                <rating>1</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>TV Star Rating</parentalRatingType>
+                <rating>3</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Sweden TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>13</rating>
+            </parentalRating>
+            <runtime>60</runtime>
+            <genre>crime drama</genre>
+            <startYear>2005</startYear>
+        </tvSeriesBrief>        
+        
+        <tvSeriesBrief id="11279768" title="Modern Family" imageSource="http://cps-static.rovicorp.com/2/Open/ABC/Modern%20Family/Cast%20Photos/_derived_png24_274x190_m0/117060_D_2091_pre.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A mockumentary-style sitcom chronicling the unusual kinship of the extended Pritchett clan</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-PG</rating>
+            </parentalRating>
+            <runtime>30</runtime>
+            <genre>comedy</genre>
+        </tvSeriesBrief>
+        
+        <movieBrief id="8905086" title="The Hangover" imageSource="http://cps-static.rovicorp.com/2/Open/Warner%20Home%20Video/The%20Hangover/_derived_jpg_q90_246x326_m0/TheHangover-PosterArt.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Three groomsmen (Ed Helms, Zach Galifianakis and Bradley Cooper) awaken after a night of debauchery to learn that the groom is missing, and they attempt to find him before the wedding bells chime.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>10</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>R</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>14A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>18</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>100</runtime>
+            <releaseYear>2009</releaseYear>
+            <genre>comedy</genre>
+        </movieBrief>
+        
+        <tvSeriesBrief id="11389215" title="Cougar Town" imageSource="http://cps-static.rovicorp.com/2/Open/ABC/Cougar%20Town/Season%20Two/Cast%20Photos/_derived_png24_274x190_m0/121550_D_3635_ful.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A sitcom about a fortysomething divorcée with a teen son who considers reentering the dating pool</synopsis>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-PG</rating>
+            </parentalRating>
+            <runtime>30</runtime>
+            <genre>comedy</genre>
+        </tvSeriesBrief>
+        
+        <tvSeriesBrief id="7983784" title="True Blood" imageSource="http://cps-static.rovicorp.com/2/Open/HBO/True%20Blood/_derived_png24_274x190_m0/TrueBlood-AnnaPaquin-StephenMoyer2.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>An adaptation of Charlaine Harris&apos; Southern Vampire novels</synopsis>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Finland TV</parentalRatingType>
+                <rating>K15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 16</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-MA</rating>
+            </parentalRating>
+            <runtime>60</runtime>
+            <genre>drama</genre>
+        </tvSeriesBrief>
+        
+        <tvSeriesBrief id="7221538" title="Breaking Bad" imageSource="http://cps-static.rovicorp.com/2/Open/AMC/Breaking%20Bad/Season%204/_derived_png24_274x190_m0/BreakingBad-Season4-Promo3.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A high-school chemistry teacher learns he&apos;s dying, so he takes up a new career as a meth producer</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14@L</rating>
+            </parentalRating> 
+            <runtime>60</runtime>
+            <genre>comedy-drama</genre>
+        </tvSeriesBrief>
+        
+        <tvSeriesBrief id="4180581" title="House" imageSource="http://cps-static.rovicorp.com/2/Open/Fox/House/_derived_jpg_q90_410x410_m0/NUP_108907_1059.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>He has little patience for patients, but misanthropic Gregory House is a brilliant diagnostician</synopsis>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>CTV</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Age Rating</parentalRatingType>
+                <rating>15</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Family Rating</parentalRatingType>
+                <rating>3</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>TV Star Rating</parentalRatingType>
+                <rating>3</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Netherlands TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>7</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Norway TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Poland TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>60</runtime>
+            <genre>drama</genre>
+            <startYear>2004</startYear>
+            <endYear>2012</endYear>
+        </tvSeriesBrief>
+        
+        <movieBrief id="18661789" title="Tangled" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Tangled/_derived_png24_274x190_m0/0311tangledKeyArt.png?partner=cpsTVGRome_p4@tvguide.com">
+            <releaseYear>2010</releaseYear>
+            <runtime>100</runtime>
+            <genre>fantasy</genre>
+            <synopsis>Charming bandit Flynn Rider (voice of Zachary Levi) meets his match in Rapunzel (voice of Mandy Moore), a long-haired beauty who longs to escape the tower where she has been held captive for most of her life.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Belgacom Ratings</parentalRatingType>
+                <rating>All</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>A</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>United Kingdom TV</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+        </movieBrief>
+        
+		<movieBrief id="8904844" title="Harry Potter and the Deathly Hallows, Part 1" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Harry%20Potter%20and%20the%20Deathly%20Hallows%2c%20Part%201/_derived_jpg_q90_246x326_m0/0411HarryPotter.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Harry Potter (Daniel Radcliffe) and his friends embark on a dangerous mission to find and destroy the magical artifacts that allow Voldemort to maintain his immortality, while Voldemort&apos;s followers continue to take over the wizard community.</synopsis>
+            
+            <parentalRating>
+                <parentalRatingType>Belgacom Ratings</parentalRatingType>
+                <rating>All</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Belgium TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>France TV</parentalRatingType>
+                <rating>Tous</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>OFRB</parentalRatingType>
+                <rating>PG</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>146</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>fantasy</genre>
+        </movieBrief>
+        
+        
+        <movieBrief id="10409708" title="Inception" imageSource="http://cps-static.rovicorp.com/2/Open/iNDEMAND/Inception/_derived_png24_274x190_m0/1210inception1.png?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>Dom Cobb (Leonardo DiCaprio) steals ideas from people while they sleep, but his career has cost him everything in his life that&apos;s real. His only shot at redemption is to take a job in which he must plant an idea into someone&apos;s dream</synopsis>
+            <parentalRating>
+                <parentalRatingType>FCTV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Italy TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>MPAA</parentalRatingType>
+                <rating>PG-13</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>RCQ</parentalRatingType>
+                <rating>G</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Spain TV</parentalRatingType>
+                <rating>12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>None</rating>
+            </parentalRating>
+            <runtime>148</runtime>
+            <releaseYear>2010</releaseYear>
+            <genre>action/adventure</genre>
+        </movieBrief>
+        
+        <tvSeriesBrief id="9936017" title="Nurse Jackie" imageSource="http://cps-static.rovicorp.com/2/Open/Showtime/Nurse%20Jackie/Season%201/_derived_jpg_q90_410x410_m0/NurseJackie-Season1-Promo1.jpg?partner=cpsTVGRome_p4@tvguide.com">
+            <synopsis>A hospital worker deals with a substance-abuse problem, an active love life and a tough job.</synopsis>
+            <parentalRating>
+                <parentalRatingType>Austria TV</parentalRatingType>
+                <rating>14</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>Germany TV</parentalRatingType>
+                <rating>FSK: 12</rating>
+            </parentalRating>
+            <parentalRating>
+                <parentalRatingType>US TV</parentalRatingType>
+                <rating>TV-MA</rating>
+            </parentalRating>
+            
+            <runtime>30</runtime>
+            <startYear>2009</startYear>
+            <genre>comedy</genre>
+        </tvSeriesBrief>
+        
+    </groupDef>
+</groupDefs>

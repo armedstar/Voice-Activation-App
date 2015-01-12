@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2404/main/velvetFog/trunk/VelvetFog/Frameworks/nmsp_oem.framework/Versions/A/Headers
+END
+nmsp_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2404/main/velvetFog/trunk/VelvetFog/Frameworks/nmsp_oem.framework/Versions/A/Headers/nmsp_defines.h
+END
+nmsp_general.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2404/main/velvetFog/trunk/VelvetFog/Frameworks/nmsp_oem.framework/Versions/A/Headers/nmsp_general.h
+END
+nmsp_parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2404/main/velvetFog/trunk/VelvetFog/Frameworks/nmsp_oem.framework/Versions/A/Headers/nmsp_parameter.h
+END
+nmsp_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2404/main/velvetFog/trunk/VelvetFog/Frameworks/nmsp_oem.framework/Versions/A/Headers/nmsp_vector.h
+END
+nmsp_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2404/main/velvetFog/trunk/VelvetFog/Frameworks/nmsp_oem.framework/Versions/A/Headers/nmsp_platform.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2971/main/velvetFog/trunk/VelvetFog/Plugins
+END
+ApplicationPreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2971/main/velvetFog/trunk/VelvetFog/Plugins/ApplicationPreferences.m
+END
+WebSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2427/main/velvetFog/trunk/VelvetFog/Plugins/WebSocket.m
+END
+NuanceVoiceRecognizer.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2567/main/velvetFog/trunk/VelvetFog/Plugins/NuanceVoiceRecognizer.m
+END
+GatewayService.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2971/main/velvetFog/trunk/VelvetFog/Plugins/GatewayService.h
+END
+ApplicationPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2971/main/velvetFog/trunk/VelvetFog/Plugins/ApplicationPreferences.h
+END
+WebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2971/main/velvetFog/trunk/VelvetFog/Plugins/WebSocket.h
+END
+GatewayService.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2971/main/velvetFog/trunk/VelvetFog/Plugins/GatewayService.m
+END
+NuanceVoiceRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2971/main/velvetFog/trunk/VelvetFog/Plugins/NuanceVoiceRecognizer.h
+END

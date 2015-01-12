@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+        
+	<!-- If your application is targeting iOS BEFORE 4.0 you MUST put json2.js from http://www.JSON.org/json2.js into your www directory and include it here -->
+	<script type="text/javascript" src="js/cordova-2.1.0.js"></script>
+    <script type="text/javascript" src="js/websocket.js"></script>
+    <script type="text/javascript" src="js/nuanceVoiceRecognizer.js"></script>
+    <script type="text/javascript" src="js/ApplicationPreferences.js"></script>
+    <script type="text/javascript" src="js/GatewayService.js"></script>
+        
+    <script type="text/javascript" src="js/puremvc-1.1/puremvc-1.1.js"></script>
+    <script type="text/javascript" src="js/utils/EventDispatcher.js"></script>   
+    <script type="text/javascript" src="js/utils/EventS.js"></script>   
+    <script type="text/javascript" src="js/utils/Relegate.js"></script>
+    <script type="text/javascript" src="js/utils/Utils.js"></script>
+    
+    <script type="text/javascript" src="js/view/components/iscroll.js"></script>
+    <script type="text/javascript" src="js/AppFacade.js"></script>
+        
+    <script type="text/javascript">
+
+        /* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
+         see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
+         for more details -jm */
+        /*
+         function handleOpenURL(url)
+         {
+            // TODO: do something with the url passed in.
+         }
+         */
+	
+        function onBodyLoad()
+        {		
+            document.addEventListener("deviceready", onDeviceReady, false);
+        }
+	
+        /* When this function is called, PhoneGap has been initialized and is ready to roll */
+        /* If you are supporting your own protocol, the var invokeString will contain any arguments to the app launch.
+         see http://iphonedevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html
+         for more details -jm */
+        function onDeviceReady()
+        {
+        
+            //Startup the Application Facade (PureMVC)
+            try {
+                AppFacade.getInstance("VELVET_FOG").startup();
+            } catch (e) {
+                alert(e.message);
+            }
+        }
+        
+        function touchMove(event) 
+        { 
+            event.preventDefault(); 
+        }
+    
+    </script>
+  </head>
+  <body onload="onBodyLoad()">
+      <div id='application'>
+          <div id='shell' ontouchmove="touchMove(event);">
+              <div id="header">
+                  <img class="logo" src="images/logo.png">
+              </div>
+              <div id="controls">
+                  <div id="micSlider" >
+                      <a id="micOff" class="micOff"><img id="micBtn" src="images/micOff.png"></a>
+                      <a id="micBack"><img src="images/backArrow.png"></a>
+                  </div>
+                  
+                  <div id="remoteSlider">
+                      <a id="remoteToggle" class="remoteToggle"><img id="remoteBtn" src="images/remoteBtn.png"></a>
+                      <div id="remoteControl" class="remoteControl">
+                          <a id="remoteControlReconnectBtn" class="remoteControlReconnectBtn"></a>
+                          <a id="remoteControlOKBtn" class="remoteControlOKBtn"></a>
+                          <a id="remoteControlLeftBtn" class="remoteControlLeftBtn"></a>
+                          <a id="remoteControlRightBtn" class="remoteControlRightBtn"></a>
+                          <a id="remoteControlUpBtn" class="remoteControlUpBtn"></a>
+                          <a id="remoteControlDownBtn" class="remoteControlDownBtn"></a>
+                          <a id="remoteControlABtn" class="remoteControlABtn"></a>
+                          <a id="remoteControlBBtn" class="remoteControlBBtn"></a>
+                          <a id="remoteControlCBtn" class="remoteControlCBtn"></a>
+                          <a id="remoteControlPlayBtn" class="remoteControlPlayBtn"></a>
+                          <a id="remoteControlPauseBtn" class="remoteControlPauseBtn"></a>
+                          <a id="remoteControlStopBtn" class="remoteControlStopBtn"></a>
+                          <a id="remoteControlRecordBtn" class="remoteControlRecordBtn"></a>
+                          <a id="remoteControlNextBtn" class="remoteControlNextBtn"></a>
+                          <a id="remoteControlPreviousBtn" class="remoteControlPreviousBtn"></a>                          
+                          <a id="remoteControlExitBtn" class="remoteControlExitBtn"></a>
+                          <a id="remoteControlBackBtn" class="remoteControlBackBtn"></a>
+                          <a id="remoteControlMenuBtn" class="remoteControlMenuBtn"></a>
+                          <a id="remoteControlGuideBtn" class="remoteControlGuideBtn"></a>
+                          <a id="remoteControlInfoBtn" class="remoteControlInfoBtn"></a>
+                          <a id="remoteControlDVRBtn" class="remoteControlDVRBtn"></a>
+                          <a id="remoteControlResetBtn" class="remoteControlResetBtn"></a>
+                      </div>
+                     
+                  </div>
+                   
+              </div>
+              
+              <div id="notifications"></div>
+              <div id="onDemandContent"></div>
+              
+              <div id="onTV">
+                  <img class="onTvImg" src="images/onTVIcon.png">
+              </div>
+              
+              <div id="favoritesContent"></div>
+              
+              <div id="queueContent"></div>
+              
+              <div id="castOverview">
+              </div>
+              
+              <!--<div id="castFilmographyWrapper"> -->
+                  <div id="castFilmography"></div>
+              <!--</div>-->
+              
+              <div id="bottomNotBubble" style="display:none;"></div>
+              <div id="drawer">
+                  <div id="drawerWrapper"></div>
+              </div>
+          </div>
+          
+      </div>
+  </body>
+</html>
